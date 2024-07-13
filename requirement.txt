@@ -1,0 +1,11 @@
+google-generativeai
+langchain
+streamlit
+python-dotenv
+pyPDF2
+pinecone-client
+tiktoken
+langchain_google_genai
+
+
+-e .

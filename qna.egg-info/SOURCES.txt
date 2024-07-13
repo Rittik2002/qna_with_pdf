@@ -1,0 +1,7 @@
+README.md
+setup.py
+qna.egg-info/PKG-INFO
+qna.egg-info/SOURCES.txt
+qna.egg-info/dependency_links.txt
+qna.egg-info/requires.txt
+qna.egg-info/top_level.txt
